@@ -6,7 +6,7 @@ Build Steps :
 
 Go to project root path : run the following maven command:
 mvn clean install
-it will build the project and will generate the jar file under target directory.
+it will build the project and will generate the jar file under target directory of test-bank-webapp Maven Module.
 
 Run the Generated JAR file to use the DEMO App.
 run the following  command:
