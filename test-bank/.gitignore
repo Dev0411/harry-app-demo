@@ -1,0 +1,41 @@
+# os
+.DS_Store
+.thumb
+
+# maven
+target/
+
+# backbase
+data/
+
+# intellij
+.idea/
+*.iml
+overlays/
+
+# eclipse
+.settings/
+.project
+.classpath
+bin/
+
+# less
+**/theme/**/*.css
+
+# git
+.gitignore
+!/.gitignore
+
+# node
+bower_components/
+node_modules/
+
+# rebel
+rebel.xml
+
+# maven
+*.releaseBackup
+
+# statics
+statics/dist
+
